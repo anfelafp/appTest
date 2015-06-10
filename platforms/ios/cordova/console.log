@@ -1,0 +1,56 @@
+2015-06-09 20:51:37.831 angelaPrueba[3298:23511] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Data/Application/20EDCD86-E5A9-4F45-A0D2-A03E55502F47/Library/Cookies/Cookies.binarycookies
+2015-06-09 20:51:38.536 angelaPrueba[3298:23511] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-09 20:51:38.537 angelaPrueba[3298:23511] Multi-tasking -> Device: YES, App: YES
+2015-06-09 20:51:38.557 angelaPrueba[3298:23511] Unlimited access to network resources
+2015-06-09 20:51:39.318 angelaPrueba[3298:23511] [CDVTimer][keyboard] 0.102043ms
+2015-06-09 20:51:39.723 angelaPrueba[3298:23511] [CDVTimer][splashscreen] 404.664993ms
+2015-06-09 20:51:39.723 angelaPrueba[3298:23511] [CDVTimer][TotalPluginStartup] 405.175984ms
+2015-06-09 20:51:40.337 angelaPrueba[3298:23511] Resetting plugins due to page load.
+2015-06-09 20:51:41.202 angelaPrueba[3298:23511] Finished load of: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Bundle/Application/0B03C26F-C6E5-4EE2-9306-6DA666DFAF59/angelaPrueba.app/www/index.html#/tab/dash
+2015-06-09 20:51:41.593 angelaPrueba[3298:23511] THREAD WARNING: ['Device'] took '62.624023' ms. Plugin should use a background thread.
+2015-06-09 21:14:44.441 angelaPrueba[3861:32744] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Data/Application/398B438E-0922-496B-83CB-38ED86887918/Library/Cookies/Cookies.binarycookies
+2015-06-09 21:14:44.810 angelaPrueba[3861:32744] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-09 21:14:44.811 angelaPrueba[3861:32744] Multi-tasking -> Device: YES, App: YES
+2015-06-09 21:14:44.824 angelaPrueba[3861:32744] Unlimited access to network resources
+2015-06-09 21:14:44.970 angelaPrueba[3861:32744] [CDVTimer][keyboard] 0.061989ms
+2015-06-09 21:14:45.103 angelaPrueba[3861:32744] [CDVTimer][splashscreen] 133.123994ms
+2015-06-09 21:14:45.104 angelaPrueba[3861:32744] [CDVTimer][TotalPluginStartup] 133.524954ms
+2015-06-09 21:14:45.425 angelaPrueba[3861:32744] Resetting plugins due to page load.
+2015-06-09 21:14:45.842 angelaPrueba[3861:32744] Finished load of: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Bundle/Application/6AAE5670-BA47-4EF8-8107-2AF8023166E3/angelaPrueba.app/www/index.html#/tab/dash
+2015-06-09 21:36:14.044 angelaPrueba[4325:38992] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Data/Application/713EC1BB-343E-46AF-9E97-7CCD207C81C7/Library/Cookies/Cookies.binarycookies
+2015-06-09 21:36:14.370 angelaPrueba[4325:38992] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-09 21:36:14.371 angelaPrueba[4325:38992] Multi-tasking -> Device: YES, App: YES
+2015-06-09 21:36:14.383 angelaPrueba[4325:38992] Unlimited access to network resources
+2015-06-09 21:36:14.498 angelaPrueba[4325:38992] [CDVTimer][keyboard] 0.060022ms
+2015-06-09 21:36:14.731 angelaPrueba[4325:38992] [CDVTimer][splashscreen] 232.691050ms
+2015-06-09 21:36:14.731 angelaPrueba[4325:38992] [CDVTimer][TotalPluginStartup] 233.125031ms
+2015-06-09 21:36:15.146 angelaPrueba[4325:38992] Resetting plugins due to page load.
+2015-06-09 21:36:15.633 angelaPrueba[4325:38992] Finished load of: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Bundle/Application/C6B831DF-BF16-462B-AF32-FB83E0912F0A/angelaPrueba.app/www/index.html#/tab/dash
+2015-06-09 21:39:17.152 angelaPrueba[4534:40936] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Data/Application/4860435E-1118-4A26-9351-9AD6C693EE70/Library/Cookies/Cookies.binarycookies
+2015-06-09 21:39:17.413 angelaPrueba[4534:40936] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-09 21:39:17.414 angelaPrueba[4534:40936] Multi-tasking -> Device: YES, App: YES
+2015-06-09 21:39:17.427 angelaPrueba[4534:40936] Unlimited access to network resources
+2015-06-09 21:39:17.543 angelaPrueba[4534:40936] [CDVTimer][keyboard] 0.057042ms
+2015-06-09 21:39:17.679 angelaPrueba[4534:40936] [CDVTimer][splashscreen] 135.909975ms
+2015-06-09 21:39:17.679 angelaPrueba[4534:40936] [CDVTimer][TotalPluginStartup] 136.335015ms
+2015-06-09 21:39:17.955 angelaPrueba[4534:40936] Resetting plugins due to page load.
+2015-06-09 21:39:18.443 angelaPrueba[4534:40936] Finished load of: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Bundle/Application/1FDD8290-AE26-417E-A90E-28EA2D0E2E88/angelaPrueba.app/www/index.html#/tab/dash
+2015-06-09 21:45:35.484 angelaPrueba[4802:44381] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Data/Application/2C8D8679-1341-46AC-A5E7-370E765E6F3E/Library/Cookies/Cookies.binarycookies
+2015-06-09 21:45:36.225 angelaPrueba[4802:44381] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-09 21:45:36.225 angelaPrueba[4802:44381] Multi-tasking -> Device: YES, App: YES
+2015-06-09 21:45:36.239 angelaPrueba[4802:44381] Unlimited access to network resources
+2015-06-09 21:45:36.418 angelaPrueba[4802:44381] [CDVTimer][keyboard] 0.074029ms
+2015-06-09 21:45:36.784 angelaPrueba[4802:44381] [CDVTimer][splashscreen] 365.383983ms
+2015-06-09 21:45:36.784 angelaPrueba[4802:44381] [CDVTimer][TotalPluginStartup] 365.840971ms
+2015-06-09 21:45:37.176 angelaPrueba[4802:44381] Resetting plugins due to page load.
+2015-06-09 21:45:37.696 angelaPrueba[4802:44381] Finished load of: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Bundle/Application/1C299AFC-151F-442A-BEAA-F9B2AA1E92A2/angelaPrueba.app/www/index.html#/tab/dash
+2015-06-10 02:08:04.787 angelaPrueba[6757:135195] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Data/Application/4AD11201-53A6-43CB-AA91-961EEC30F952/Library/Cookies/Cookies.binarycookies
+2015-06-10 02:08:06.818 angelaPrueba[6757:135195] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-10 02:08:06.826 angelaPrueba[6757:135195] Multi-tasking -> Device: YES, App: YES
+2015-06-10 02:08:06.869 angelaPrueba[6757:135195] Unlimited access to network resources
+2015-06-10 02:08:07.766 angelaPrueba[6757:135195] [CDVTimer][keyboard] 0.105023ms
+2015-06-10 02:08:08.220 angelaPrueba[6757:135195] [CDVTimer][splashscreen] 453.678012ms
+2015-06-10 02:08:08.220 angelaPrueba[6757:135195] [CDVTimer][TotalPluginStartup] 454.726040ms
+2015-06-10 02:08:10.657 angelaPrueba[6757:135195] Resetting plugins due to page load.
+2015-06-10 02:08:13.218 angelaPrueba[6757:135195] Finished load of: file:///Users/angelafranco/Library/Developer/CoreSimulator/Devices/6F3D30B3-1FEA-43C5-9677-B8418BA3DCC7/data/Containers/Bundle/Application/7DF7C040-7490-4439-B5D9-3D4E4FBC4704/angelaPrueba.app/www/index.html#/tab/usuarios
+2015-06-10 02:08:23.583 angelaPrueba[6757:135195] THREAD WARNING: ['Keyboard'] took '10.427002' ms. Plugin should use a background thread.
